@@ -1,0 +1,311 @@
+ARIA - 2023-03-23 12:04:14.129955	speak check 123
+ARIA - 2023-05-11 11:42:45.690254	Good Morning
+
+ARIA - 2023-05-11 11:42:47.682959	I am ARIA
+
+ARIA - 2023-05-11 11:45:28.485867	Good Morning
+
+ARIA - 2023-05-11 11:45:30.250204	I am ARIA
+
+ARIA - 2023-05-11 11:45:41.984904	Ok Sir What Should I Search?
+
+ARIA - 2023-05-11 11:45:57.545113	searchingjarvis demoon youtube
+
+ARIA - 2023-05-15 14:35:45.789970	Good Afternoon
+
+ARIA - 2023-05-15 14:35:48.145019	I am ARIA
+
+ARIA - 2023-05-15 14:36:09.300014	Which language do you want to?
+
+ARIA - 2023-05-15 14:36:18.148866	WHat is the name of the project?
+
+ARIA - 2023-05-15 14:36:25.722844	Creating a Python project named testto
+
+ARIA - 2023-05-15 14:37:12.236282	Good Afternoon
+
+ARIA - 2023-05-15 14:37:14.223721	I am ARIA
+
+ARIA - 2023-05-15 14:37:22.251707	Which language do you want to?
+
+ARIA - 2023-05-15 14:37:26.403070	WHat is the name of the project?
+
+ARIA - 2023-05-15 14:37:31.419825	Creating a Python project named testo
+
+ARIA - 2023-05-15 14:37:34.867671	Would you like to have main.py file?
+
+ARIA - 2023-05-15 14:37:38.577788	Would you like to have virtual environment?
+
+ARIA - 2023-05-15 14:37:58.387840	Would you like me to open it up in VS Code?
+
+ARIA - 2023-05-15 14:39:08.071214	Good Afternoon
+
+ARIA - 2023-05-15 14:39:10.006510	I am ARIA
+
+ARIA - 2023-05-15 14:39:18.669322	Which language do you want to?
+
+ARIA - 2023-05-15 14:39:21.923863	WHat is the name of the project?
+
+ARIA - 2023-05-15 14:39:24.480130	Creating a Python project named testo
+
+ARIA - 2023-05-15 14:39:54.369886	Good Afternoon
+
+ARIA - 2023-05-15 14:39:56.302815	I am ARIA
+
+ARIA - 2023-05-15 14:40:01.206756	Which language do you want to?
+
+ARIA - 2023-05-15 14:40:03.864413	WHat is the name of the project?
+
+ARIA - 2023-05-15 14:40:09.876764	Creating a Python project named testo
+
+ARIA - 2023-05-15 14:40:13.257741	Would you like to have main.py file?
+
+ARIA - 2023-05-15 14:40:17.478673	Would you like to have virtual environment?
+
+ARIA - 2023-05-15 14:40:25.503702	Would you like me to open it up in VS Code?
+
+ARIA - 2023-05-15 14:45:34.600305	Good Afternoon
+
+ARIA - 2023-05-15 14:45:36.580869	I am ARIA
+
+ARIA - 2023-05-15 14:45:43.145084	Which language do you want to?
+
+ARIA - 2023-05-15 14:45:47.048794	WHat is the name of the project?
+
+ARIA - 2023-05-15 14:46:00.901777	Creating a Python project named testo
+
+ARIA - 2023-05-15 14:46:04.329581	Would you like to have main.py file?
+
+ARIA - 2023-05-15 14:46:07.615131	Would you like to have virtual environment?
+
+ARIA - 2023-05-15 14:46:21.971178	Would you like me to open it up in VS Code?
+
+ARIA - 2023-05-15 14:46:51.265650	Which language do you want to?
+
+ARIA - 2023-05-15 14:46:54.993136	Creating an html project
+
+ARIA - 2023-05-15 14:46:58.004271	Would you like me to open it up in VS Code?
+
+ARIA - 2023-05-15 14:50:36.440655	Good Afternoon
+
+ARIA - 2023-05-15 14:50:38.418851	I am ARIA
+
+ARIA - 2023-05-15 15:14:13.025122	Good Afternoon
+
+ARIA - 2023-05-15 15:14:15.055212	I am ARIA
+
+ARIA - 2023-05-15 15:14:40.288099	Which language do you want to?
+
+ARIA - 2023-05-15 15:14:42.973225	WHat is the name of the project?
+
+ARIA - 2023-05-15 15:14:45.927454	Creating a Python project named test
+
+ARIA - 2023-05-15 15:14:49.310208	Would you like me to open it up in VS Code?
+
+ARIA - 2023-05-15 15:16:33.854496	Good Afternoon
+
+ARIA - 2023-05-15 15:16:35.842506	I am ARIA
+
+ARIA - 2023-05-15 15:16:46.752506	fuck u
+
+ARIA - 2023-05-15 15:17:28.355645	Good Afternoon
+
+ARIA - 2023-05-15 15:17:30.348877	I am ARIA
+
+ARIA - 2023-05-15 15:17:33.447344	An SEO expert walks into a bar, bars, pub, public house, Irish pub, tavern, bartender, beer, liquor, wine, alcohol, spirits...
+
+ARIA - 2023-05-15 15:17:55.967828	Why don't jokes work in octal? Because 7 10 11.
+
+ARIA - 2023-05-15 15:18:06.279450	How many programmers does it take to change a lightbulb? None, that's a hardware problem.
+
+ARIA - 2023-05-15 15:18:14.941321	There are only two hard problems in Computer Science: cache invalidation, naming things and off-by-one-errors.
+
+ARIA - 2023-05-15 15:18:23.558911	An SEO expert walks into a bar, bars, pub, public house, Irish pub, tavern, bartender, beer, liquor, wine, alcohol, spirits...
+
+ARIA - 2023-05-15 15:18:37.697673	Ubuntu users are apt to get this joke.
+
+ARIA - 2023-05-15 15:18:43.031163	Why did the QA cross the road? To ruin everyone's day.
+
+ARIA - 2023-05-15 15:18:48.504071	How many programmers does it take to change a lightbulb? None, that's a hardware problem.
+
+ARIA - 2023-05-15 15:18:56.016234	How do you generate a random string? Put a first year Computer Science student in Vim and ask them to save and exit.
+
+ARIA - 2023-05-15 15:56:07.045164	The best thing about a Boolean is even if you are wrong, you are only off by a bit.
+
+ARIA - 2023-05-15 15:56:13.772355	How many programmers does it take to kill a cockroach? Two: one holds, the other installs Windows on it.
+
+ARIA - 2023-05-15 16:00:23.576892	An SQL query goes into a bar, walks up to two tables and asks, 'Can I join you?'
+
+ARIA - 2023-05-15 16:00:30.629637	Real programmers can write assembly code in any language.
+
+ARIA - 2023-05-15 16:00:35.523187	Why does Waldo only wear stripes? Because he doesn't want to be spotted.
+
+ARIA - 2023-05-15 16:00:42.036220	I went to a street where the houses were numbered 8k, 16k, 32k, 64k, 128k, 256k and 512k. It was a trip down Memory Lane.
+
+ARIA - 2023-05-15 16:00:55.795173	What does 'Emacs' stand for? 'Exclusively used by middle aged computer scientists.'
+
+ARIA - 2023-05-15 16:01:03.395044	Hardware: The part of a computer that you can kick.
+
+ARIA - 2023-05-15 16:01:11.716645	I had a problem so I thought I'd use Java. Now I have a ProblemFactory.
+
+ARIA - 2023-05-15 16:01:17.674495	Obfuscated Reality Mappers (ORMs) can be useful database tools.
+
+ARIA - 2023-05-15 16:01:23.987702	A COBOL programmer makes millions with Y2K remediation and decides to get cryogenically frozen. "The year is 9999. You know COBOL, right?"
+
+ARIA - 2023-05-15 16:01:37.523935	A programmer walks into a bar and orders 1.38 root beers. The bartender informs her it's a root beer float. She says 'Make it a double!'
+
+ARIA - 2023-05-15 16:01:50.351256	Pirates go 'arg!', computer pirates go 'argv!'
+
+ARIA - 2023-05-15 16:01:55.627931	I had a problem so I thought I'd use Java. Now I have a ProblemFactory.
+
+ARIA - 2023-05-15 16:02:03.196108	My friend's in a band called '1023 Megabytes'... They haven't got a gig yet!
+
+ARIA - 2023-05-15 16:02:12.515341	.NET was named .NET so that it wouldn't show up in a Unix directory listing.
+
+ARIA - 2023-05-15 16:02:18.482788	What does pyjokes have in common with Adobe Flash? It gets updated all the time, but never gets any better.
+
+ARIA - 2023-05-15 16:02:26.767000	QA Engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 999999999 beers. Orders a lizard. Orders -1 beers. Orders a sfdeljknesv.
+
+ARIA - 2023-05-15 16:02:59.176642	How come there is no obfuscated Perl contest? Because everyone would win.
+
+ARIA - 2023-05-15 16:03:05.790219	Why are you always smiling? That's just my... regular expression.
+
+ARIA - 2023-05-15 16:03:12.245057	If loving you is ROM I don't wanna read write.
+
+ARIA - 2023-05-15 16:03:43.689811	There are 10 types of people: those who understand trinary, those who don't, and those who have never heard of it.
+
+ARIA - 2023-05-15 16:03:54.474520	There are II types of people: Those who understand Roman Numerals and those who don't.
+
+ARIA - 2023-05-15 16:04:01.034887	The C language combines all the power of assembly language with all the ease-of-use of assembly language.
+
+ARIA - 2023-05-15 16:04:08.297576	Why did the QA cross the road? To ruin everyone's day.
+
+ARIA - 2023-05-15 16:04:13.578037	A programmer walks into a bar and orders 1.38 root beers. The bartender informs her it's a root beer float. She says 'Make it a double!'
+
+ARIA - 2023-05-15 16:04:32.521209	Good Afternoon
+
+ARIA - 2023-05-15 16:04:34.482528	I am ARIA
+
+ARIA - 2023-05-15 16:04:41.612867	Taking screenshot
+
+ARIA - 2023-05-15 16:05:30.700329	Good Afternoon
+
+ARIA - 2023-05-15 16:05:32.697026	I am ARIA
+
+ARIA - 2023-05-15 16:05:37.697677	Taking screenshot
+
+ARIA - 2023-05-15 16:05:51.385120	.NET was named .NET so that it wouldn't show up in a Unix directory listing.
+
+ARIA - 2023-05-15 16:06:14.994106	Can you tell me which one to play?
+
+ARIA - 2023-05-15 16:06:43.178667	Can you tell me which one to play?
+
+ARIA - 2023-05-15 16:07:10.690472	Ok Sir What Should I google?
+
+ARIA - 2023-05-15 16:07:21.850970	searchinghashmaps in pythonon google
+
+ARIA - 2023-05-15 16:07:44.637206	Ok Sir What Should I Search?
+
+ARIA - 2023-05-15 16:08:00.172702	searchinguncle rogeron youtube
+
+ARIA - 2023-05-15 16:08:44.628142	Good Afternoon
+
+ARIA - 2023-05-15 16:08:46.612453	I am ARIA
+
+ARIA - 2023-05-15 16:08:50.904214	Ok Sir What Should I Search?
+
+ARIA - 2023-05-15 16:08:57.615405	searchinguncle rogeron youtube
+
+ARIA - 2023-05-15 16:09:37.524404	Good Afternoon
+
+ARIA - 2023-05-15 16:09:39.497228	I am ARIA
+
+ARIA - 2023-05-15 16:09:44.198545	Okay Sir pls say wake up if you need me
+
+ARIA - 2023-05-15 16:09:54.903345	Good Afternoon
+
+ARIA - 2023-05-15 16:09:56.892841	I am ARIA
+
+ARIA - 2023-05-15 16:10:59.085286	Good Afternoon
+
+ARIA - 2023-05-15 16:11:01.060405	I am ARIA
+
+ARIA - 2023-05-15 16:11:04.983177	Can you tell me whom to send?
+
+ARIA - 2023-05-15 16:11:19.532089	Can you tell me what to send?
+
+ARIA - 2023-05-15 16:12:56.579712	Good Afternoon
+
+ARIA - 2023-05-15 16:12:58.573170	I am ARIA
+
+ARIA - 2023-05-15 16:13:02.345133	Can you tell me whom to send?
+
+ARIA - 2023-05-15 16:13:05.946112	Can you tell me what to send?
+
+ARIA - 2023-05-15 17:15:53.022629	I am ARIA
+
+ARIA - 2023-05-15 17:16:00.204055	Opening Dictionary
+
+ARIA - 2023-05-15 17:16:02.288659	Pls tell me the problem:
+
+ARIA - 2023-05-15 17:16:12.761563	The meaning of the word wax is any of various substances of either mineral origin or plant or animal origin; they are solid at normal temperatures and insoluble in water and the synonym is ['wax'] and the antonyms is []
+
+ARIA - 2023-05-15 17:16:32.354828	Opening Dictionary
+
+ARIA - 2023-05-15 17:16:34.476092	Pls tell me the problem:
+
+ARIA - 2023-05-15 17:16:40.300636	The meaning of the word happy is enjoying or showing or marked by joy or pleasure and the synonym is ['happy'] and the antonyms is ['unhappy']
+
+ARIA - 2023-05-15 17:18:26.756545	I am ARIA
+
+ARIA - 2023-05-15 17:20:07.568483	I am ARIA
+
+ARIA - 2023-05-15 17:21:56.728827	I am ARIA
+
+ARIA - 2023-05-15 17:23:32.579376	I am ARIA
+
+ARIA - 2023-05-15 17:24:04.666446	The Download speed is 22.800832080831135MBPS and upload speed is 43.49781003034375MBPS68.263is the pings
+
+ARIA - 2023-05-15 20:51:25.057423	I am ARIA
+
+ARIA - 2023-05-15 20:51:51.491789	What is the name of the folder:
+
+ARIA - 2023-05-15 20:51:57.427623	Where do you want to?
+
+ARIA - 2023-05-15 20:53:59.894499	What is the name of the folder:
+
+ARIA - 2023-05-15 20:54:10.932487	Where do you want to?
+
+ARIA - 2023-05-15 20:54:49.158132	What is the name of the folder:
+
+ARIA - 2023-05-15 20:54:53.530549	Where do you want to?
+
+ARIA - 2023-05-15 21:01:22.652488	What is the name of the folder:
+
+ARIA - 2023-05-15 21:01:28.943151	Where do you want to?
+
+ARIA - 2023-05-15 21:02:09.907766	What is the name of the folder:
+
+ARIA - 2023-05-15 21:02:22.761627	Where do you want to?
+
+ARIA - 2023-05-15 21:03:19.142695	What is the name of the folder:
+
+ARIA - 2023-05-15 21:03:34.140404	What is the name of the folder:
+
+ARIA - 2023-05-15 21:03:37.096670	Where do you want to?
+
+ARIA - 2023-05-15 21:03:50.975216	What is the name of the folder:
+
+ARIA - 2023-05-15 21:03:57.718188	Where do you want to?
+
+ARIA - 2023-05-15 21:04:14.158546	What is the name of the folder:
+
+ARIA - 2023-05-15 21:04:23.849672	Where do you want to?
+
+ARIA - 2023-05-15 21:04:37.291179	What is the name of the folder:
+
+ARIA - 2023-05-15 21:04:43.679715	Where do you want to?
+
+ARIA - 2023-05-15 21:05:08.603877	What is the name of the folder:
+
+ARIA - 2023-05-15 21:05:18.697174	Where do you want to?
+
